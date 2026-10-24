@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mishaely
+# 👋 Hi, I'm Meshaki
 
 I'm a second-year Data Science student with a passion for building practical machine learning solutions that solve real-world problems. Whether it's financial modeling, geospatial analysis, or NLP, I thrive on turning raw data into actionable insights.
 
